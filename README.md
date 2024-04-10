@@ -16,5 +16,5 @@ IDE: Visual Studio Code <br />
 
 ## Running the Raw Program
 1. Open your terminal
-2. Navigate the the repo directory
+2. Navigate to the repo directory in your terminal
 3. With python installed, type 'py decimal_roman_converter.py' without the single quotes and click 'Enter' on your keyboard
