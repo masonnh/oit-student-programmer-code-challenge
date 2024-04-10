@@ -9,7 +9,7 @@ Time Spent on this Challenge: 2 hours 53 minutes <br />
 Language: Python <br /> 
 IDE: Visual Studio Code <br />
 
-## Running the Executable
+## Running the Executable (Windows Only)
 1. Pull the repository
 2. Navigate from the repo directory to /dist/decimal_roman_converter/
 3. Double click on decimal_roman_converter.exe
