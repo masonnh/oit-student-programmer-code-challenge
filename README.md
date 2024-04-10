@@ -8,6 +8,7 @@ This program is able to convert a roman numeral to a decimal number and vice ver
 Time Spent on this Challenge: 2 hours 53 minutes <br />
 Language: Python <br /> 
 IDE: Visual Studio Code <br />
+The executable was created using pyinstaller <br />
 
 ## Running the Executable (Windows Only)
 1. Pull the repository
